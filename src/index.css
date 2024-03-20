@@ -17,6 +17,13 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+button {
+  background-color: black;
+  padding: 5px;
+  border-radius: 10px;
+  margin-left: 20px;
+  color: red;
+}
 
 body {
   margin: 0;
